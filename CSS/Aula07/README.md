@@ -1,4 +1,4 @@
-## Align-content
+## Align content
 
 É a propriedade responsável por tratar o alinhamento das linhas do container em relação ao eixo vertical do container
 - Precisamos que:
